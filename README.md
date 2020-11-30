@@ -1,6 +1,6 @@
 # Ansible Role - yui-compressor for Linux Server
 
-[![Build Status](https://travis-ci.org/elnebuloso/ansible-role-yui-compressor.svg?branch=master)](https://travis-ci.org/elnebuloso/ansible-role-yui-compressor)
+![abandoned](https://img.shields.io/badge/project-abandoned-red)
 
 ## Requirements
 
